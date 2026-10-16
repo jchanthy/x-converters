@@ -1,0 +1,6 @@
+{
+  "name": "XLSX to XML Converter",
+  "description": "Professional Excel to XML converter with schema customization, multi-dialect formatting, live preview, and batch export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
